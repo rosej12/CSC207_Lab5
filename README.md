@@ -1,5 +1,5 @@
 # Lab 5: Logout
----
+
 ## Preamble
 
 In the current homework, you added code to the login use case to save the currently-logged-in
