@@ -102,8 +102,8 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LoggedInView.java` (tip: refer to the other views for similar code)
 
-  - [ ] TODO: save the logout controller in the instance variable.
-  - [ ] TODO: execute the logout use case through the Controller
+  - [x] TODO: save the logout controller in the instance variable.
+  - [x] TODO: execute the logout use case through the Controller
 
 * * *
 
@@ -116,7 +116,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below)
 
-  - [ ] TODO: save the current username in an instance variable and add a getter.
+  - [x] TODO: save the current username in an instance variable and add a getter.
 
 - `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code)
 
@@ -127,7 +127,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutOutputData.java`
 
-  - [ ] TODO: save the parameters in the instance variables.
+  - [x] TODO: save the parameters in the instance variables.
 
 * * *
 
